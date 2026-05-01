@@ -14,8 +14,9 @@
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaditya42&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya42&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
+  <img src="https://img.shields.io/github/followers/aaditya42?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/aaditya42?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/aaditya42/aaditya42?style=for-the-badge"/>
 </div>
 
 ---
@@ -70,5 +71,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aaditya42/aaditya42/output/snake-dark.svg" />
+  <img 
+    src="https://i.ibb.co/wNrTBP9K/Chat-GPT-Image-May-2-2026-01-02-02-AM.png" 
+    width="100%" 
+    height="250"
+  />
 </div>
