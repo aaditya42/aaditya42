@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aaditya42/aaditya42/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aaditya42/aaditya42/output/snake-dark.svg" />
 </div>
